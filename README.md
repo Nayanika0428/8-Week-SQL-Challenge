@@ -3,3 +3,4 @@ This repository hosts my solutions to the [8-Week SQL Challenge](https://8weeksq
 
 Case Studies:
 * [🍜 Case Study #1 - Danny's Diner](https://github.com/Nayanika0428/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231-Danny's%20Dinner)
+* [🍕 Case Study #2 - Pizza Runner](https://github.com/Nayanika0428/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232-Pizza%20Runner)
